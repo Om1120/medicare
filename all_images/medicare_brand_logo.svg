@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="medicareGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B6E99" />
+      <stop offset="100%" stop-color="#16A6A3" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#medicareGrad)" />
+  <g fill="none" stroke="#ffffff" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M380 300c28-28 56-62 56-106 0-58-46-94-106-94-34 0-58 10-90 40-32-30-56-40-90-40-60 0-106 36-106 94 0 44 28 78 56 106l140 140Z" />
+    <path d="M240 120v260" stroke-width="36" />
+    <path d="M110 250h260" stroke-width="36" />
+  </g>
+</svg>

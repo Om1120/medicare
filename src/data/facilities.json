@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fac-1",
+    "name": "Advanced Intensive Care Unit (ICU & CCU)",
+    "category": "Critical Care",
+    "description": "24/7 continuous cardiac and hemodynamic monitoring, dedicated mechanical ventilators, ECMO support, and 1:1 nurse-to-patient ratio.",
+    "capacity": "40 Critical Beds",
+    "availability": "24 Hours / 365 Days",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80",
+    "features": ["HEPA Filter Air Handling", "Central Oxygen Supply", "Real-Time Telemetry", "Isolation Suites"]
+  },
+  {
+    "id": "fac-2",
+    "name": "Modular Operation Theatres (Modular OTs)",
+    "category": "Surgical Care",
+    "description": "Laminar airflow theatres fitted with robotic surgical arms, intra-operative imaging, C-arm fluoroscopy, and sterile anesthesia stations.",
+    "capacity": "8 Theatres",
+    "availability": "Round the clock",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80",
+    "features": ["Laminar Airflow", "Endoscopic Towers", "Continuous Monitoring", "Emergency Power Backup"]
+  },
+  {
+    "id": "fac-3",
+    "name": "Automated Diagnostic Pathology & Microbiology Lab",
+    "category": "Diagnostics",
+    "description": "Fully automated clinical chemistry and hematology analyzers with barcoded tracking and instant digital reporting.",
+    "capacity": "1500+ Tests/Day",
+    "availability": "24/7 Sample Collection",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+    "features": ["Barcoded Sample Tracking", "NABL Standard Protocol", "Rapid Turnaround", "Digital Reports"]
+  },
+  {
+    "id": "fac-4",
+    "name": "24/7 In-House Hospital Pharmacy",
+    "category": "Pharmacy",
+    "description": "Fully stocked dispensary maintaining cold chain biologicals, essential cardiac drugs, surgical disposables, and OTC items.",
+    "capacity": "Full Inventory",
+    "availability": "24/7 Open",
+    "image": "https://images.unsplash.com/photo-1586015555751-63bb77f4322a?auto=format&fit=crop&w=600&q=80",
+    "features": ["Cold Chain Storage", "Direct Bedside Delivery", "Digital Prescription Check", "All Major Brands"]
+  },
+  {
+    "id": "fac-5",
+    "name": "Luxury Patient Suites & Deluxe Rooms",
+    "category": "Inpatient Rooms",
+    "description": "Comfortable private and semi-private rooms equipped with motorized patient beds, guest sleeper sofa, ensuite baths, and nurse-call bells.",
+    "capacity": "120 Private Rooms",
+    "availability": "Immediate Admission",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=600&q=80",
+    "features": ["Electric Hospital Beds", "Nurse Call Interface", "WiFi & Smart TV", "Custom Meal Plans"]
+  },
+  {
+    "id": "fac-6",
+    "name": "Modern Level-1 Emergency & Trauma Unit",
+    "category": "Emergency",
+    "description": "Rapid response triage with dedicated resuscitation bays, mobile X-ray, point-of-care ultrasound, and direct OT access.",
+    "capacity": "20 Emergency Bays",
+    "availability": "24/7 Instant Triage",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80",
+    "features": ["Direct Ambulance Bay", "On-site Triage Nurses", "Resuscitation Bays", "Rapid Blood Bank Access"]
+  },
+  {
+    "id": "fac-7",
+    "name": "Dedicated Fleet of ACLS Ambulances",
+    "category": "Emergency",
+    "description": "GPS-tracked Advance Cardiac Life Support ambulances staffed with certified paramedics and transport ventilators.",
+    "capacity": "6 Mobile Units",
+    "availability": "24/7 Rapid Response Dispatch",
+    "image": "https://images.unsplash.com/photo-1587745416684-47953f16f02f?auto=format&fit=crop&w=600&q=80",
+    "features": ["Transport Ventilator", "Defibrillator & Pacer", "GPS Tracking", "Paramedic Onboard"]
+  },
+  {
+    "id": "fac-8",
+    "name": "Spacious Visitor Lounge & Health Cafe",
+    "category": "Patient Amenities",
+    "description": "Calm, welcoming waiting areas with sanitized hydration stations, healthy dietary refreshments, and digital token queues.",
+    "capacity": "250 Seating Capacity",
+    "availability": "6:00 AM - 10:00 PM",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=600&q=80",
+    "features": ["Digital Token Display", "Sanitized Water Stations", "Nutritious Cafeteria", "High-speed WiFi"]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "tip-1",
+    "category": "Healthy Lifestyle",
+    "title": "Optimizing Sleep Hygiene for Cardiovascular Health",
+    "summary": "Consistent 7-8 hours of quality sleep reduces cortisol, stabilizes blood pressure, and improves immune defense.",
+    "readTime": "4 min read",
+    "keyPoints": [
+      "Keep a fixed sleep-wake schedule even on weekends.",
+      "Limit blue light exposure 60 minutes before bedtime.",
+      "Keep bedroom temperature between 18°C - 21°C for optimal melatonin synthesis."
+    ],
+    "icon": "Moon"
+  },
+  {
+    "id": "tip-2",
+    "category": "Nutrition",
+    "title": "Heart-Smart Diet: Mediterranean Eating Patterns",
+    "summary": "Emphasizing healthy unsaturated fats, fiber-rich legumes, and colorful vegetables drastically reduces LDL cholesterol.",
+    "readTime": "5 min read",
+    "keyPoints": [
+      "Replace saturated fats with extra virgin olive oil, nuts, and seeds.",
+      "Target at least 25-30 grams of dietary fiber daily.",
+      "Reduce ultra-processed foods and sodium intake to under 2,000 mg/day."
+    ],
+    "icon": "Apple"
+  },
+  {
+    "id": "tip-3",
+    "category": "Exercise",
+    "title": "150 Minutes of Moderate Aerobic Activity Weekly",
+    "summary": "Brisk walking, cycling, or swimming strengthens the myocardium, enhances insulin sensitivity, and elevates mood.",
+    "readTime": "3 min read",
+    "keyPoints": [
+      "Split into 30-minute sessions across 5 days a week.",
+      "Include twice-weekly resistance training for bone mineral density.",
+      "Warm up and stretch before engaging in high-intensity workouts."
+    ],
+    "icon": "Activity"
+  },
+  {
+    "id": "tip-4",
+    "category": "Preventive Care",
+    "title": "Essential Annual Health Screenings by Age Group",
+    "summary": "Early detection saves lives. Routine blood panels, blood pressure monitoring, and cancer screenings prevent severe complications.",
+    "readTime": "6 min read",
+    "keyPoints": [
+      "Ages 20-39: Annual BP, lipid profile every 3-5 years, fasting glucose.",
+      "Ages 40-49: Annual cardiac assessment, mammograms for women, diabetes screening.",
+      "Ages 50+: Colonoscopy, bone density DEXA scans, prostate and cardiac monitoring."
+    ],
+    "icon": "ShieldCheck"
+  },
+  {
+    "id": "tip-5",
+    "category": "Common Health Tips",
+    "title": "Hydration, Posture & Digital Eye Strain Management",
+    "summary": "Practical daily ergonomics to protect your cervical spine and maintain peak cognitive alertness.",
+    "readTime": "4 min read",
+    "keyPoints": [
+      "Follow the 20-20-20 rule: Every 20 mins look at an object 20 feet away for 20 seconds.",
+      "Keep your computer screen eye-level to prevent forward head posture.",
+      "Drink 2.5 - 3 liters of water throughout the day."
+    ],
+    "icon": "Droplet"
+  },
+  {
+    "id": "tip-6",
+    "category": "When to Consult a Doctor",
+    "title": "Recognizing Red-Flag Symptoms That Require Prompt Medical Attention",
+    "summary": "Clear indicators when home remedies are not suitable and professional medical evaluation is crucial.",
+    "readTime": "5 min read",
+    "keyPoints": [
+      "Sudden crushing chest pressure, shortness of breath, or radiating jaw/arm pain (Emergency).",
+      "Persistent fever lasting over 3 days or unexplained sudden weight loss.",
+      "Sudden weakness on one side of face/arm or slurred speech (FAST stroke sign).",
+      "Severe abdominal pain accompanied by persistent vomiting."
+    ],
+    "icon": "AlertTriangle"
+  }
+]

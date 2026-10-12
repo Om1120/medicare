@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ward-1",
+    "hospitalId": "hosp-gj-1",
+    "hospitalName": "U.N. Mehta Institute of Cardiology & Research Centre",
+    "name": "Coronary Intensive Care Unit (CICU)",
+    "category": "ICU / Critical Care",
+    "floor": "3rd Floor, Wing A",
+    "totalBeds": 45,
+    "availableBeds": 12,
+    "dailyCharge": 3500,
+    "headNurse": "Sr. Manisha Rathore (Critical Care Lead)",
+    "facilities": [
+      "Ventilator Support",
+      "Central Cardiac Telemetry",
+      "24/7 Dedicated Intensivist",
+      "Arterial Line Monitoring"
+    ],
+    "status": "Operational",
+    "lastUpdated": "2026-10-10"
+  },
+  {
+    "id": "ward-2",
+    "hospitalId": "hosp-gj-1",
+    "hospitalName": "U.N. Mehta Institute of Cardiology & Research Centre",
+    "name": "Pediatric Heart Recovery Ward",
+    "category": "Pediatric Ward",
+    "floor": "4th Floor, Child Health Wing",
+    "totalBeds": 30,
+    "availableBeds": 8,
+    "dailyCharge": 1800,
+    "headNurse": "Sr. Neha Dave",
+    "facilities": [
+      "Pediatric Warmers",
+      "Oxygen Hoods",
+      "Parent Attendant Sleeper Couch",
+      "In-Ward Play Area"
+    ],
+    "status": "Operational",
+    "lastUpdated": "2026-10-10"
+  },
+  {
+    "id": "ward-3",
+    "hospitalId": "hosp-gj-2",
+    "hospitalName": "Zydus Hospitals & Healthcare Research",
+    "name": "Super-Deluxe Executive Ward",
+    "category": "Deluxe Private",
+    "floor": "7th Floor, West Block",
+    "totalBeds": 20,
+    "availableBeds": 6,
+    "dailyCharge": 6500,
+    "headNurse": "Sr. Anjali Nair",
+    "facilities": [
+      "Motorized Hill-Rom Bed",
+      "Private Lounge",
+      "Wi-Fi & Smart TV",
+      "Personal Dietitian Assistance"
+    ],
+    "status": "Operational",
+    "lastUpdated": "2026-10-10"
+  },
+  {
+    "id": "ward-4",
+    "hospitalId": "hosp-gj-2",
+    "hospitalName": "Zydus Hospitals & Healthcare Research",
+    "name": "Trauma & Emergency Triage Ward",
+    "category": "Emergency / Trauma",
+    "floor": "Ground Floor, Emergency Corridor",
+    "totalBeds": 35,
+    "availableBeds": 9,
+    "dailyCharge": 2200,
+    "headNurse": "Sr. Rekha Sharma",
+    "facilities": [
+      "Rapid Resuscitation Bay",
+      "Mobile X-Ray Access",
+      "Direct Cath-Lab Bridge",
+      "24/7 Trauma Surgery On-Call"
+    ],
+    "status": "Operational",
+    "lastUpdated": "2026-10-10"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-1",
+    "name": "U.N. Mehta Institute of Cardiology & Research Centre",
+    "filename": "logo_hosp-gj-1_u_n_mehta_institute_of_cardiology_research_centre.jpg",
+    "path": "logos/logo_hosp-gj-1_u_n_mehta_institute_of_cardiology_research_centre.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-1",
+    "name": "U.N. Mehta Institute of Cardiology & Research Centre",
+    "filename": "hospital_hosp-gj-1_u_n_mehta_institute_of_cardiology_research_centre_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-1_u_n_mehta_institute_of_cardiology_research_centre_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-2",
+    "name": "Zydus Hospitals & Healthcare Research",
+    "filename": "logo_hosp-gj-2_zydus_hospitals_healthcare_research.jpg",
+    "path": "logos/logo_hosp-gj-2_zydus_hospitals_healthcare_research.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-2",
+    "name": "Zydus Hospitals & Healthcare Research",
+    "filename": "hospital_hosp-gj-2_zydus_hospitals_healthcare_research_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-2_zydus_hospitals_healthcare_research_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-3",
+    "name": "KD Hospital (Kusum Dhirajlal Hospital)",
+    "filename": "logo_hosp-gj-3_kd_hospital_kusum_dhirajlal_hospital_.jpg",
+    "path": "logos/logo_hosp-gj-3_kd_hospital_kusum_dhirajlal_hospital_.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-3",
+    "name": "KD Hospital (Kusum Dhirajlal Hospital)",
+    "filename": "hospital_hosp-gj-3_kd_hospital_kusum_dhirajlal_hospital__main.jpg",
+    "path": "hospitals/hospital_hosp-gj-3_kd_hospital_kusum_dhirajlal_hospital__main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-4",
+    "name": "Kiran Multi Super Speciality Hospital & Research Centre",
+    "filename": "logo_hosp-gj-4_kiran_multi_super_speciality_hospital_research_cen.jpg",
+    "path": "logos/logo_hosp-gj-4_kiran_multi_super_speciality_hospital_research_cen.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-4",
+    "name": "Kiran Multi Super Speciality Hospital & Research Centre",
+    "filename": "hospital_hosp-gj-4_kiran_multi_super_speciality_hospital_research_cen_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-4_kiran_multi_super_speciality_hospital_research_cen_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-5",
+    "name": "Sterling Hospitals",
+    "filename": "logo_hosp-gj-5_sterling_hospitals.jpg",
+    "path": "logos/logo_hosp-gj-5_sterling_hospitals.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-5",
+    "name": "Sterling Hospitals",
+    "filename": "hospital_hosp-gj-5_sterling_hospitals_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-5_sterling_hospitals_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-6",
+    "name": "Sunshine Global Hospital",
+    "filename": "logo_hosp-gj-6_sunshine_global_hospital.jpg",
+    "path": "logos/logo_hosp-gj-6_sunshine_global_hospital.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-6",
+    "name": "Sunshine Global Hospital",
+    "filename": "hospital_hosp-gj-6_sunshine_global_hospital_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-6_sunshine_global_hospital_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-7",
+    "name": "Apollo Hospitals International",
+    "filename": "logo_hosp-gj-7_apollo_hospitals_international.jpg",
+    "path": "logos/logo_hosp-gj-7_apollo_hospitals_international.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-7",
+    "name": "Apollo Hospitals International",
+    "filename": "hospital_hosp-gj-7_apollo_hospitals_international_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-7_apollo_hospitals_international_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-8",
+    "name": "B.J. Medical College & Civil Hospital",
+    "filename": "logo_hosp-gj-8_b_j_medical_college_civil_hospital.jpg",
+    "path": "logos/logo_hosp-gj-8_b_j_medical_college_civil_hospital.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-8",
+    "name": "B.J. Medical College & Civil Hospital",
+    "filename": "hospital_hosp-gj-8_b_j_medical_college_civil_hospital_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-8_b_j_medical_college_civil_hospital_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-9",
+    "name": "Sterling Hospitals Rajkot",
+    "filename": "logo_hosp-gj-9_sterling_hospitals_rajkot.jpg",
+    "path": "logos/logo_hosp-gj-9_sterling_hospitals_rajkot.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-9",
+    "name": "Sterling Hospitals Rajkot",
+    "filename": "hospital_hosp-gj-9_sterling_hospitals_rajkot_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-9_sterling_hospitals_rajkot_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-10",
+    "name": "Sir Takhtasinhji General Hospital (Civil Hospital Bhavnagar)",
+    "filename": "logo_hosp-gj-10_sir_takhtasinhji_general_hospital_civil_hospital_b.jpg",
+    "path": "logos/logo_hosp-gj-10_sir_takhtasinhji_general_hospital_civil_hospital_b.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-10",
+    "name": "Sir Takhtasinhji General Hospital (Civil Hospital Bhavnagar)",
+    "filename": "hospital_hosp-gj-10_sir_takhtasinhji_general_hospital_civil_hospital_b_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-10_sir_takhtasinhji_general_hospital_civil_hospital_b_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-11",
+    "name": "Guru Gobindsingh (G.G.) Govt Hospital & MP Shah Medical College",
+    "filename": "logo_hosp-gj-11_guru_gobindsingh_g_g_govt_hospital_mp_shah_medical.jpg",
+    "path": "logos/logo_hosp-gj-11_guru_gobindsingh_g_g_govt_hospital_mp_shah_medical.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-11",
+    "name": "Guru Gobindsingh (G.G.) Govt Hospital & MP Shah Medical College",
+    "filename": "hospital_hosp-gj-11_guru_gobindsingh_g_g_govt_hospital_mp_shah_medical_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-11_guru_gobindsingh_g_g_govt_hospital_mp_shah_medical_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-12",
+    "name": "GMERS General Hospital & Medical College Junagadh",
+    "filename": "logo_hosp-gj-12_gmers_general_hospital_medical_college_junagadh.jpg",
+    "path": "logos/logo_hosp-gj-12_gmers_general_hospital_medical_college_junagadh.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-12",
+    "name": "GMERS General Hospital & Medical College Junagadh",
+    "filename": "hospital_hosp-gj-12_gmers_general_hospital_medical_college_junagadh_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-12_gmers_general_hospital_medical_college_junagadh_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-13",
+    "name": "Shree Krishna Hospital & Pramukhswami Medical College",
+    "filename": "logo_hosp-gj-13_shree_krishna_hospital_pramukhswami_medical_colleg.jpg",
+    "path": "logos/logo_hosp-gj-13_shree_krishna_hospital_pramukhswami_medical_colleg.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-13",
+    "name": "Shree Krishna Hospital & Pramukhswami Medical College",
+    "filename": "hospital_hosp-gj-13_shree_krishna_hospital_pramukhswami_medical_colleg_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-13_shree_krishna_hospital_pramukhswami_medical_colleg_main.jpg"
+  },
+  {
+    "type": "Hospital Logo",
+    "id": "hosp-gj-14",
+    "name": "GAIMS GK General Hospital Bhuj",
+    "filename": "logo_hosp-gj-14_gaims_gk_general_hospital_bhuj.jpg",
+    "path": "logos/logo_hosp-gj-14_gaims_gk_general_hospital_bhuj.jpg"
+  },
+  {
+    "type": "Hospital Main Image",
+    "id": "hosp-gj-14",
+    "name": "GAIMS GK General Hospital Bhuj",
+    "filename": "hospital_hosp-gj-14_gaims_gk_general_hospital_bhuj_main.jpg",
+    "path": "hospitals/hospital_hosp-gj-14_gaims_gk_general_hospital_bhuj_main.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-1",
+    "name": "Dr. Aarav Shah",
+    "specialization": "Senior Interventional Cardiologist",
+    "filename": "doctor_doc-1_dr_aarav_shah.jpg",
+    "path": "doctors/doctor_doc-1_dr_aarav_shah.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-2",
+    "name": "Dr. Meera Patel",
+    "specialization": "Consultant Pediatrician & Neonatologist",
+    "filename": "doctor_doc-2_dr_meera_patel.jpg",
+    "path": "doctors/doctor_doc-2_dr_meera_patel.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-3",
+    "name": "Dr. Rohan Mehta",
+    "specialization": "Senior Orthopedic & Robotic Joint Replacement Surgeon",
+    "filename": "doctor_doc-3_dr_rohan_mehta.jpg",
+    "path": "doctors/doctor_doc-3_dr_rohan_mehta.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-4",
+    "name": "Dr. Kavya Desai",
+    "specialization": "Senior Neurologist & Stroke Specialist",
+    "filename": "doctor_doc-4_dr_kavya_desai.jpg",
+    "path": "doctors/doctor_doc-4_dr_kavya_desai.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-5",
+    "name": "Dr. Chirag Vora",
+    "specialization": "Consultant Physician & Diabetologist",
+    "filename": "doctor_doc-5_dr_chirag_vora.jpg",
+    "path": "doctors/doctor_doc-5_dr_chirag_vora.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-6",
+    "name": "Dr. Jagruti Trivedi",
+    "specialization": "Senior Obstetrician & Gynecologist",
+    "filename": "doctor_doc-6_dr_jagruti_trivedi.jpg",
+    "path": "doctors/doctor_doc-6_dr_jagruti_trivedi.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-7",
+    "name": "Dr. Siddharth Rao",
+    "specialization": "Consultant Dermatologist & Cosmetologist",
+    "filename": "doctor_doc-7_dr_siddharth_rao.jpg",
+    "path": "doctors/doctor_doc-7_dr_siddharth_rao.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-8",
+    "name": "Dr. Brijesh Solanki",
+    "specialization": "Senior General & Trauma Surgeon",
+    "filename": "doctor_doc-8_dr_brijesh_solanki.jpg",
+    "path": "doctors/doctor_doc-8_dr_brijesh_solanki.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-9",
+    "name": "Dr. Harit Shah",
+    "specialization": "Senior Cardio-Thoracic & Vascular Surgeon (CTVS)",
+    "filename": "doctor_doc-9_dr_harit_shah.jpg",
+    "path": "doctors/doctor_doc-9_dr_harit_shah.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-10",
+    "name": "Dr. Jatin Trivedi",
+    "specialization": "Senior Interventional Cardiologist",
+    "filename": "doctor_doc-10_dr_jatin_trivedi.jpg",
+    "path": "doctors/doctor_doc-10_dr_jatin_trivedi.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-11",
+    "name": "Dr. Darshana Gohil",
+    "specialization": "Consultant Pediatrician & Neonatologist",
+    "filename": "doctor_doc-11_dr_darshana_gohil.jpg",
+    "path": "doctors/doctor_doc-11_dr_darshana_gohil.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-12",
+    "name": "Dr. Nilesh Jadeja",
+    "specialization": "Senior Orthopedic & Joint Trauma Surgeon",
+    "filename": "doctor_doc-12_dr_nilesh_jadeja.jpg",
+    "path": "doctors/doctor_doc-12_dr_nilesh_jadeja.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-13",
+    "name": "Dr. Hitesh Patel",
+    "specialization": "Senior Consultant Physician & Diabetologist",
+    "filename": "doctor_doc-13_dr_hitesh_patel.jpg",
+    "path": "doctors/doctor_doc-13_dr_hitesh_patel.jpg"
+  },
+  {
+    "type": "Doctor Portrait",
+    "id": "doc-14",
+    "name": "Dr. Pratik Goswami",
+    "specialization": "Consultant Neurologist & Stroke Specialist",
+    "filename": "doctor_doc-14_dr_pratik_goswami.jpg",
+    "path": "doctors/doctor_doc-14_dr_pratik_goswami.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-1",
+    "name": "Cardiology",
+    "filename": "department_dept-1_cardiology.jpg",
+    "path": "departments/department_dept-1_cardiology.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-2",
+    "name": "Orthopedics",
+    "filename": "department_dept-2_orthopedics.jpg",
+    "path": "departments/department_dept-2_orthopedics.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-3",
+    "name": "Pediatrics",
+    "filename": "department_dept-3_pediatrics.jpg",
+    "path": "departments/department_dept-3_pediatrics.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-4",
+    "name": "Neurology",
+    "filename": "department_dept-4_neurology.jpg",
+    "path": "departments/department_dept-4_neurology.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-5",
+    "name": "Dental Surgery",
+    "filename": "department_dept-5_dental_surgery.jpg",
+    "path": "departments/department_dept-5_dental_surgery.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-6",
+    "name": "General Medicine",
+    "filename": "department_dept-6_general_medicine.jpg",
+    "path": "departments/department_dept-6_general_medicine.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-7",
+    "name": "Dermatology",
+    "filename": "department_dept-7_dermatology.jpg",
+    "path": "departments/department_dept-7_dermatology.jpg"
+  },
+  {
+    "type": "Department",
+    "id": "dept-8",
+    "name": "Gynecology & Obstetrics",
+    "filename": "department_dept-8_gynecology_obstetrics.jpg",
+    "path": "departments/department_dept-8_gynecology_obstetrics.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-1",
+    "name": "Advanced Intensive Care Unit (ICU & CCU)",
+    "filename": "facility_fac-1_advanced_intensive_care_unit_icu_ccu_.jpg",
+    "path": "facilities/facility_fac-1_advanced_intensive_care_unit_icu_ccu_.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-2",
+    "name": "Modular Operation Theatres (Modular OTs)",
+    "filename": "facility_fac-2_modular_operation_theatres_modular_ots_.jpg",
+    "path": "facilities/facility_fac-2_modular_operation_theatres_modular_ots_.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-3",
+    "name": "Automated Diagnostic Pathology & Microbiology Lab",
+    "filename": "facility_fac-3_automated_diagnostic_pathology_microbiology_lab.jpg",
+    "path": "facilities/facility_fac-3_automated_diagnostic_pathology_microbiology_lab.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-4",
+    "name": "24/7 In-House Hospital Pharmacy",
+    "filename": "facility_fac-4_24_7_in-house_hospital_pharmacy.jpg",
+    "path": "facilities/facility_fac-4_24_7_in-house_hospital_pharmacy.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-5",
+    "name": "Luxury Patient Suites & Deluxe Rooms",
+    "filename": "facility_fac-5_luxury_patient_suites_deluxe_rooms.jpg",
+    "path": "facilities/facility_fac-5_luxury_patient_suites_deluxe_rooms.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-6",
+    "name": "Modern Level-1 Emergency & Trauma Unit",
+    "filename": "facility_fac-6_modern_level-1_emergency_trauma_unit.jpg",
+    "path": "facilities/facility_fac-6_modern_level-1_emergency_trauma_unit.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-7",
+    "name": "Dedicated Fleet of ACLS Ambulances",
+    "filename": "facility_fac-7_dedicated_fleet_of_acls_ambulances.jpg",
+    "path": "facilities/facility_fac-7_dedicated_fleet_of_acls_ambulances.jpg"
+  },
+  {
+    "type": "Facility",
+    "id": "fac-8",
+    "name": "Spacious Visitor Lounge & Health Cafe",
+    "filename": "facility_fac-8_spacious_visitor_lounge_health_cafe.jpg",
+    "path": "facilities/facility_fac-8_spacious_visitor_lounge_health_cafe.jpg"
+  }
+]

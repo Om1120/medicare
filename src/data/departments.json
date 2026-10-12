@@ -1,0 +1,98 @@
+[
+  {
+    "id": "dept-1",
+    "name": "Cardiology",
+    "description": "Comprehensive cardiac care including advanced diagnostics, heart disease prevention, coronary intervention, and rehabilitation.",
+    "headDoctor": "Dr. Aarav Shah",
+    "doctorCount": 4,
+    "status": "Active",
+    "icon": "HeartPulse",
+    "image": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=600&q=80",
+    "services": ["ECG & Echocardiography", "Angiography & Angioplasty", "Cardiac Stress Test", "Heart Failure Clinic", "Pacemaker Implantation"],
+    "location": "Building A, 3rd Floor"
+  },
+  {
+    "id": "dept-2",
+    "name": "Orthopedics",
+    "description": "Specialized diagnosis, surgical treatment, and rehabilitation for bone, joint, ligament, and spine disorders.",
+    "headDoctor": "Dr. Rohan Mehta",
+    "doctorCount": 3,
+    "status": "Active",
+    "icon": "Bone",
+    "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=600&q=80",
+    "services": ["Joint Replacement", "Arthroscopy", "Spine Surgery", "Fracture Management", "Sports Injury Care"],
+    "location": "Building B, 2nd Floor"
+  },
+  {
+    "id": "dept-3",
+    "name": "Pediatrics",
+    "description": "Dedicated and gentle medical care for newborns, infants, children, and adolescents with complete immunization programs.",
+    "headDoctor": "Dr. Meera Patel",
+    "doctorCount": 3,
+    "status": "Active",
+    "icon": "Baby",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=600&q=80",
+    "services": ["Neonatal Intensive Care (NICU)", "Child Vaccination", "Developmental Assessments", "Pediatric Emergencies", "Child Nutrition"],
+    "location": "Building A, 1st Floor"
+  },
+  {
+    "id": "dept-4",
+    "name": "Neurology",
+    "description": "Advanced diagnosis and management of neurological disorders, stroke care, epilepsy, Parkinson's, and spine conditions.",
+    "headDoctor": "Dr. Kavya Desai",
+    "doctorCount": 3,
+    "status": "Active",
+    "icon": "Activity",
+    "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=600&q=80",
+    "services": ["Stroke Unit Care", "EEG & EMG Diagnostics", "Epilepsy Management", "Movement Disorders", "Neuro-Rehabilitation"],
+    "location": "Building C, 4th Floor"
+  },
+  {
+    "id": "dept-5",
+    "name": "Dental Surgery",
+    "description": "Complete oral healthcare spanning preventative hygiene, cosmetic dentistry, orthodontics, and restorative oral surgery.",
+    "headDoctor": "Dr. Neel Joshi",
+    "doctorCount": 2,
+    "status": "Active",
+    "icon": "Smile",
+    "image": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=600&q=80",
+    "services": ["Root Canal Therapy", "Dental Implants", "Orthodontic Aligners", "Teeth Whitening", "Oral Maxillofacial Surgery"],
+    "location": "Building B, 1st Floor"
+  },
+  {
+    "id": "dept-6",
+    "name": "General Medicine",
+    "description": "Primary healthcare, chronic disease management (diabetes, hypertension), lifestyle guidance, and preventive diagnostics.",
+    "headDoctor": "Dr. Sunita Rao",
+    "doctorCount": 5,
+    "status": "Active",
+    "icon": "Stethoscope",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=600&q=80",
+    "services": ["Comprehensive Health Checkups", "Diabetes Clinic", "Hypertension Management", "Infectious Disease Care", "Geriatric Care"],
+    "location": "Building A, Ground Floor"
+  },
+  {
+    "id": "dept-7",
+    "name": "Dermatology",
+    "description": "Expert skin, hair, and nail healthcare offering medical dermatology, laser therapies, and therapeutic aesthetic procedures.",
+    "headDoctor": "Dr. Vikram Singhania",
+    "doctorCount": 2,
+    "status": "Active",
+    "icon": "Sparkles",
+    "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=600&q=80",
+    "services": ["Skin Allergy Testing", "Acne & Scar Therapy", "Laser Skin Treatments", "Psoriasis & Eczema Care", "Dermatopathology"],
+    "location": "Building B, 3rd Floor"
+  },
+  {
+    "id": "dept-8",
+    "name": "Gynecology & Obstetrics",
+    "description": "Compassionate women's health, maternity suites, prenatal and postnatal care, fertility guidance, and gynecological surgery.",
+    "headDoctor": "Dr. Ananya Sharma",
+    "doctorCount": 3,
+    "status": "Active",
+    "icon": "Users",
+    "image": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=600&q=80",
+    "services": ["Antenatal & Postnatal Care", "Labor & Delivery Suites", "Laparoscopic Surgery", "Infertility Counseling", "Menopause Clinic"],
+    "location": "Building C, 2nd Floor"
+  }
+]

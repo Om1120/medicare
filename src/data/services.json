@@ -1,0 +1,102 @@
+[
+  {
+    "id": "srv-1",
+    "name": "General Doctor Consultation",
+    "category": "Consultation",
+    "description": "Comprehensive primary medical evaluation, diagnosis, lifestyle prescription, and specialist referral.",
+    "price": 500,
+    "duration": "20-30 Mins",
+    "status": "Available",
+    "icon": "Stethoscope"
+  },
+  {
+    "id": "srv-2",
+    "name": "Comprehensive Lipid & Cardiac Profile",
+    "category": "Diagnostics",
+    "description": "12-lead ECG, Total Cholesterol, HDL, LDL, Triglycerides, and blood glucose index test.",
+    "price": 1200,
+    "duration": "Same Day (4 Hours)",
+    "status": "Available",
+    "icon": "Heart"
+  },
+  {
+    "id": "srv-3",
+    "name": "Complete Blood Count (CBC) & ESR",
+    "category": "Laboratory",
+    "description": "Routine automated hematology analysis measuring hemoglobin, white blood cells, platelets, and infection markers.",
+    "price": 450,
+    "duration": "2 Hours",
+    "status": "Available",
+    "icon": "Droplets"
+  },
+  {
+    "id": "srv-4",
+    "name": "Digital X-Ray (Chest / Joint)",
+    "category": "Radiology",
+    "description": "High-definition digital radiography with low radiation exposure and instant radiological radiologist review.",
+    "price": 750,
+    "duration": "30 Mins",
+    "status": "Available",
+    "icon": "Scan"
+  },
+  {
+    "id": "srv-5",
+    "name": "Magnetic Resonance Imaging (MRI Brain / Spine)",
+    "category": "Radiology",
+    "description": "State-of-the-art 3 Tesla MRI scan providing high-resolution cross-sectional soft tissue imaging.",
+    "price": 4500,
+    "duration": "24 Hours Report",
+    "status": "Available",
+    "icon": "Cpu"
+  },
+  {
+    "id": "srv-6",
+    "name": "Whole Body CT Scan (Multi-slice)",
+    "category": "Radiology",
+    "description": "Fast 128-slice computerized tomography with contrast guidance for precise internal pathology screening.",
+    "price": 3800,
+    "duration": "12 Hours Report",
+    "status": "Available",
+    "icon": "Radio"
+  },
+  {
+    "id": "srv-7",
+    "name": "Executive Master Health Checkup Package",
+    "category": "Health Packages",
+    "description": "Includes 65+ blood parameters, Chest X-Ray, ECG, Abdominal Ultrasound, Liver & Kidney Function, and Physician review.",
+    "price": 2800,
+    "duration": "4-5 Hours (Fasting)",
+    "status": "Available",
+    "icon": "ShieldCheck"
+  },
+  {
+    "id": "srv-8",
+    "name": "24/7 Emergency Trauma & Triage",
+    "category": "Emergency",
+    "description": "Immediate critical care stabilization, resuscitation, trauma surgeons on standby, and acute bedside diagnostics.",
+    "price": 1500,
+    "duration": "Immediate",
+    "status": "Available",
+    "icon": "AlertCircle"
+  },
+  {
+    "id": "srv-9",
+    "name": "Ultrasonography (USG Abdomen & Pelvis)",
+    "category": "Radiology",
+    "description": "Painless real-time acoustic imaging of liver, kidneys, gallbladder, spleen, and pelvic anatomy.",
+    "price": 1100,
+    "duration": "45 Mins",
+    "status": "Available",
+    "icon": "Eye"
+  },
+  {
+    "id": "srv-10",
+    "name": "Specialist Dental Scaling & Polishing",
+    "category": "Dental",
+    "description": "Ultrasonic plaque and tartar removal, stain treatment, and gum health evaluation by experienced dental hygienists.",
+    "price": 850,
+    "duration": "45 Mins",
+    "status": "Available",
+    "icon": "Sparkles"
+  }
+]

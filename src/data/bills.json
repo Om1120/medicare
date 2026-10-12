@@ -1,0 +1,188 @@
+[
+  {
+    "id": "BILL-2026-001",
+    "patientId": "pat-1",
+    "patientName": "Rahul Sharma",
+    "doctorName": "Dr. Aarav Shah",
+    "department": "Cardiology",
+    "consultationFee": 800,
+    "testCharges": 1200,
+    "otherCharges": 150,
+    "total": 2150,
+    "paymentStatus": "Paid",
+    "date": "2026-09-24",
+    "dueDate": "2026-10-01",
+    "items": [
+      { "name": "Cardiology Specialist Consultation", "amount": 800 },
+      { "name": "12-Lead ECG + Cardiac Stress Marker", "amount": 1200 },
+      { "name": "Hospital Administrative & Registration Fee", "amount": 150 }
+    ]
+  },
+  {
+    "id": "BILL-2026-002",
+    "patientId": "pat-1",
+    "patientName": "Rahul Sharma",
+    "doctorName": "Dr. Aarav Shah",
+    "department": "Cardiology",
+    "consultationFee": 800,
+    "testCharges": 700,
+    "otherCharges": 0,
+    "total": 1500,
+    "paymentStatus": "Pending",
+    "date": "2026-10-01",
+    "dueDate": "2026-10-10",
+    "items": [
+      { "name": "Quarterly Cardiology Follow-up", "amount": 800 },
+      { "name": "Lipid Profile & Glucose Check", "amount": 700 }
+    ]
+  },
+  {
+    "id": "BILL-2026-003",
+    "patientId": "pat-2",
+    "patientName": "Pooja Verma",
+    "doctorName": "Dr. Ananya Sharma",
+    "department": "Gynecology & Obstetrics",
+    "consultationFee": 750,
+    "testCharges": 1100,
+    "otherCharges": 100,
+    "total": 1950,
+    "paymentStatus": "Paid",
+    "date": "2026-09-28",
+    "dueDate": "2026-10-05",
+    "items": [
+      { "name": "Obstetric Consultation", "amount": 750 },
+      { "name": "Level II Fetal Ultrasound", "amount": 1100 },
+      { "name": "Sterile Consumables", "amount": 100 }
+    ]
+  },
+  {
+    "id": "BILL-2026-004",
+    "patientId": "pat-3",
+    "patientName": "Amitabh Sen",
+    "doctorName": "Dr. Sunita Rao",
+    "department": "General Medicine",
+    "consultationFee": 550,
+    "testCharges": 950,
+    "otherCharges": 0,
+    "total": 1500,
+    "paymentStatus": "Pending",
+    "date": "2026-09-15",
+    "dueDate": "2026-10-05",
+    "items": [
+      { "name": "Internal Medicine Consultation", "amount": 550 },
+      { "name": "HbA1c & Microalbuminuria Assay", "amount": 950 }
+    ]
+  },
+  {
+    "id": "BILL-2026-005",
+    "patientId": "pat-5",
+    "patientName": "Vikram Malhotra",
+    "doctorName": "Dr. Rohan Mehta",
+    "department": "Orthopedics",
+    "consultationFee": 850,
+    "testCharges": 4500,
+    "otherCharges": 200,
+    "total": 5550,
+    "paymentStatus": "Paid",
+    "date": "2026-09-29",
+    "dueDate": "2026-10-06",
+    "items": [
+      { "name": "Orthopedic Spine Consultation", "amount": 850 },
+      { "name": "Lumbar Spine 3T MRI", "amount": 4500 },
+      { "name": "Film Printing & Radiologist Report", "amount": 200 }
+    ]
+  },
+  {
+    "id": "BILL-2026-006",
+    "patientId": "pat-6",
+    "patientName": "Deepika Reddy",
+    "doctorName": "Dr. Kavya Desai",
+    "department": "Neurology",
+    "consultationFee": 900,
+    "testCharges": 1800,
+    "otherCharges": 100,
+    "total": 2800,
+    "paymentStatus": "Pending",
+    "date": "2026-09-20",
+    "dueDate": "2026-10-04",
+    "items": [
+      { "name": "Neurology Consultation", "amount": 900 },
+      { "name": "Digital Video EEG Analysis", "amount": 1800 },
+      { "name": "Consumables & Tech Surcharge", "amount": 100 }
+    ]
+  },
+  {
+    "id": "BILL-2026-007",
+    "patientId": "pat-7",
+    "patientName": "Harish Chandra",
+    "doctorName": "Dr. Neha Verma",
+    "department": "Orthopedics",
+    "consultationFee": 800,
+    "testCharges": 750,
+    "otherCharges": 650,
+    "total": 2200,
+    "paymentStatus": "Paid",
+    "date": "2026-09-18",
+    "dueDate": "2026-09-25",
+    "items": [
+      { "name": "Joint Specialist Review", "amount": 800 },
+      { "name": "Bilateral Knee Digital X-Ray", "amount": 750 },
+      { "name": "Hyaluronic Acid Joint Viscosupplementation", "amount": 650 }
+    ]
+  },
+  {
+    "id": "BILL-2026-008",
+    "patientId": "pat-8",
+    "patientName": "Neha Gupta",
+    "doctorName": "Dr. Vikram Singhania",
+    "department": "Dermatology",
+    "consultationFee": 700,
+    "testCharges": 1300,
+    "otherCharges": 0,
+    "total": 2000,
+    "paymentStatus": "Paid",
+    "date": "2026-09-30",
+    "dueDate": "2026-10-07",
+    "items": [
+      { "name": "Dermatology Specialist Visit", "amount": 700 },
+      { "name": "Acne Fractional Laser Therapy Session", "amount": 1300 }
+    ]
+  },
+  {
+    "id": "BILL-2026-009",
+    "patientId": "pat-9",
+    "patientName": "Rajendra Prasad",
+    "doctorName": "Dr. Neel Joshi",
+    "department": "Dental Surgery",
+    "consultationFee": 500,
+    "testCharges": 2500,
+    "otherCharges": 200,
+    "total": 3200,
+    "paymentStatus": "Pending",
+    "date": "2026-09-22",
+    "dueDate": "2026-10-08",
+    "items": [
+      { "name": "Prosthodontics Consultation", "amount": 500 },
+      { "name": "Dental CBCT 3D Scan & Implant Prep", "amount": 2500 },
+      { "name": "Sterile Dental Pack", "amount": 200 }
+    ]
+  },
+  {
+    "id": "BILL-2026-010",
+    "patientId": "pat-11",
+    "patientName": "Karthik Swamy",
+    "doctorName": "Dr. Sameer Kapoor",
+    "department": "General Medicine",
+    "consultationFee": 500,
+    "testCharges": 2800,
+    "otherCharges": 0,
+    "total": 3300,
+    "paymentStatus": "Paid",
+    "date": "2026-10-02",
+    "dueDate": "2026-10-09",
+    "items": [
+      { "name": "Executive Checkup Review", "amount": 500 },
+      { "name": "Executive Master Health Checkup Package", "amount": 2800 }
+    ]
+  }
+]
